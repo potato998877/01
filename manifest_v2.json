@@ -26,20 +26,34 @@
   "downloads": {
     "xmrw5": {
       "version": "1.0.0",
-      "file_name": "downloads/resource.bin"
+      "file_name": "downloads/resource.bin",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": ""
+        }
+      ]
     },
     "xmrw6": {
       "version": "1.0.0",
-      "file_name": "downloads/resource.bin"
+      "file_name": "downloads/resource.bin",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": ""
+        }
+      ]
     },
     "xmrw5xring": {
       "version": "1.0.0",
-      "file_name": "downloads/resource.bin"
+      "file_name": "downloads/resource.bin",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": ""
+        }
+      ]
     }
   },
-  "ext": {
-    "wallpaperGenerator": {
-      "configUrl": "https://raw.githubusercontent.com/potato998877/astrobox-resource-979816788138/main/wallpaper/wallpaper.json"
-    }
-  }
+  "ext": {}
 }
