@@ -3,7 +3,7 @@
     "id": "979816788138",
     "restype": "watchface",
     "name": "[相ui]相册表盘",
-    "description": "自定义相册表盘，支持用户自定义设置图片，最多12张，无需重复购买，可自由上传",
+    "description": "自定义相册表盘，支持用户自定义设置图片，最多12张，无需重复购买，可自由上传\n三个自定义",
     "preview": [
       "media/预览图.png"
     ],
@@ -27,32 +27,17 @@
     "xmrw5": {
       "version": "1.0.0",
       "file_name": "downloads/resource.bin",
-      "updatelogs": [
-        {
-          "version": "1.0.0",
-          "content": ""
-        }
-      ]
-    },
-    "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/resource.bin",
-      "updatelogs": [
-        {
-          "version": "1.0.0",
-          "content": ""
-        }
-      ]
+      "versionCode": 1
     },
     "xmrw5xring": {
       "version": "1.0.0",
       "file_name": "downloads/resource.bin",
-      "updatelogs": [
-        {
-          "version": "1.0.0",
-          "content": ""
-        }
-      ]
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource.bin",
+      "versionCode": 1
     }
   },
   "ext": {}
