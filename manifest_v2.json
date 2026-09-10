@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "979816788138",
+    "restype": "watchface",
+    "name": "[相ui]相册表盘",
+    "description": "自定义相册表盘，支持用户自定义设置图片，最多12张，无需重复购买，可自由上传",
+    "preview": [
+      "media/预览图.png"
+    ],
+    "icon": "media/容器 46.png",
+    "cover": "media/容器 47.png",
+    "author": [
+      {
+        "name": "potato888",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "壁纸自定义及教程",
+      "url": "https://potato888.cn/",
+      "icon": "AndroidLogo"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource.bin"
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource.bin"
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/resource.bin"
+    }
+  },
+  "ext": {
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/potato998877/astrobox-resource-979816788138/main/wallpaper/wallpaper.json"
+    }
+  }
+}
